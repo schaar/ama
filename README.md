@@ -6,12 +6,12 @@ In the spirit of [Zach Holman's](http://zachholman.com) wildly successful AMA, I
 
 Asking a question is as easy as
 [creating a new issue](https://github.com/moby/ama/issues/new) on this
-project. You can also add a tag to it depending on the category (I've created some general ones already, so if it doesn't fit into one of those, just leave it blank.
+project. You can also add a [label](https://github.com/moby/ama/labels) to it depending on the category (I've created some general ones already, so if it doesn't fit into one of those, just leave it blank.
 
-### Read some questions
+### See questions I've already answered
 
 Check out the [Closed Issues](https://github.com/moby/ama/issues?q=is%3Aissue+is%3Aclosed)
-filter to see what I've answered before. You can also filter by tab/category if you'd like.
+filter to see what I've answered before. You can also filter by label if you'd like.
 
 ### Twitter
 
